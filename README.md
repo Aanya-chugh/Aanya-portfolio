@@ -1,47 +1,65 @@
+# 🌐 Live Portfolio Website
+
+### 🚀 View My Portfolio
+
+👉 **https://aanya-chugh.github.io/Aanya-portfolio/**
+
+---
+
 # Aanya Chugh – Portfolio Website
 
-Welcome to my personal portfolio website.
+Welcome to my personal portfolio website, where I showcase my projects, technical skills, achievements, and learning journey in Computer Science and Artificial Intelligence.
 
-## About Me
+## 👩‍💻 About Me
 
 I am Aanya Chugh, a B.Tech Computer Science student passionate about:
 
-* Artificial Intelligence
+* Artificial Intelligence (AI)
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * Fine-Tuning
 * Data Analysis
 * Python Development
-* C++ and Data Structures & Algorithms
+* C++ Programming
+* Data Structures & Algorithms
 
-I enjoy building projects, exploring emerging technologies, and continuously improving my technical skills.
+I enjoy building projects, exploring new technologies, and continuously improving my problem-solving and development skills.
 
-## Portfolio Features
+---
 
-* Responsive modern design
+## ✨ Portfolio Features
+
+* Modern and responsive design
 * Interactive user interface
-* Project showcase
-* Skills and achievements section
+* Project showcase section
+* Skills and technologies section
 * Contact information
 * Professional online presence
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 * GSAP Animations
 
-## Connect With Me
+---
 
-* LinkedIn: [www.linkedin.com/in/aanya-chugh](http://www.linkedin.com/in/aanya-chugh)
-* GitHub: github.com/Aanya-chugh
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/aanya-chugh
+* GitHub: https://github.com/Aanya-chugh
+* Portfolio: https://aanya-chugh.github.io/Aanya-portfolio/
 * Email: [aanyachugh08@gmail.com](mailto:aanyachugh08@gmail.com)
-
-## Goal
-
-My goal is to build impactful technology solutions and grow as a software engineer specializing in AI and modern software development.
 
 ---
 
-Thank you for visiting my portfolio.
+## 🎯 Career Goal
+
+My goal is to become a skilled Software Engineer specializing in Artificial Intelligence, Machine Learning, and modern software development while building impactful technology solutions.
+
+---
+
+⭐ If you like this portfolio, feel free to explore the website and repository.
